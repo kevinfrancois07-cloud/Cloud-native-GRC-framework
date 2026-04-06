@@ -1,4 +1,4 @@
-# Cloud-native-GRC-repo
+# Cloud-native-GRC-Framework
 This repository contains details of how Governance, Risk, and Compliance (GRC) can be designed for modern cloud-native organizations.
 The objective is to move beyond static, document-heavy compliance programs and instead build a GRC model that aligns with:
 
